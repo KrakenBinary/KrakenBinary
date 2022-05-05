@@ -1,7 +1,6 @@
 # Hello there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krakenbinary.krakenbinary)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/KrakenBinary/open-source-badge/)
 
 ```py
 #!/usr/bin/python
