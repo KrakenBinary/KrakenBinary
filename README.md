@@ -1,4 +1,10 @@
-# Hello there 👋
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://github.com/krakenbinary.png"
+  >
+</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krakenbinary.krakenbinary)
 
