@@ -1,6 +1,9 @@
+<p float="left">
 <img src="https://github.com/krakenbinary.png"  height="200" width="200">
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=krakenbinary&show_icons=true)
+
+</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krakenbinary.krakenbinary)
 
