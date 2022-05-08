@@ -4,6 +4,8 @@
 
 ![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=krakenbinary&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=008080&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ```py
 #!/usr/bin/python3
