@@ -1,12 +1,12 @@
 <div class="row">
-    <div class="column">
-        <img src="https://github.com/krakenbinary.png"  height="200" width="200">
-    </div>
-    <div class="column">
+<div class="column">
+<img src="https://github.com/krakenbinary.png"  height="200" width="200">
+</div>
+<div class="column">
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=krakenbinary&show_icons=true)
 
-    </div>
+</div>
 </div> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krakenbinary.krakenbinary)
