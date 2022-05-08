@@ -1,14 +1,12 @@
-<p align="center">
-  <img 
-    width="300"
-    height="300"
-    src="https://github.com/krakenbinary.png"
-  >
-</p>
-
+<div class="row">
+    <div class="column">
+        <img src="https://github.com/krakenbinary.png"  height="300" width="300">
+    </div>
+    <div class="column">
+        ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=krakenbinary&show_icons=true)
+    </div>
+</div> 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krakenbinary.krakenbinary)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=krakenbinary&show_icons=true)
 
 ```py
 #!/usr/bin/python3
