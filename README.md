@@ -1,17 +1,9 @@
-<style type="text/css">
-.centerMe
-{
- text-align:center;
- display:block;
-}
-</style>
-<p class="centerMe">
+<p style="text-align:center;">
 <img src="https://github.com/krakenbinary.png"  height="200" width="200">
+</p>
 
 ![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=krakenbinary&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=008080&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</p>
 
 ```py
 #!/usr/bin/python3
