@@ -3,9 +3,12 @@
         <img src="https://github.com/krakenbinary.png"  height="300" width="300">
     </div>
     <div class="column">
+    
         ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=krakenbinary&show_icons=true)
+        
     </div>
 </div> 
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krakenbinary.krakenbinary)
 
 ```py
