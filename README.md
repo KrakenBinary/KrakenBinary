@@ -1,11 +1,10 @@
-<p float="left">
+<p float="center">
 <img src="https://github.com/krakenbinary.png"  height="200" width="200">
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=krakenbinary&show_icons=true)
-
 </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=krakenbinary.krakenbinary)
+![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=krakenbinary&label=Visitor Count&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=008080&style=for-the-badge)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=for-the-badge)
 
 ```py
 #!/usr/bin/python3
