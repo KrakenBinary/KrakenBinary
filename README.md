@@ -1,4 +1,11 @@
-<p style="text-align:center;">
+<style type="text/css">
+.centerMe
+{
+ text-align:center;
+ display:block;
+}
+</style>
+<p class="centerMe">
 <img src="https://github.com/krakenbinary.png"  height="200" width="200">
 
 ![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=krakenbinary&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=008080&style=for-the-badge)
