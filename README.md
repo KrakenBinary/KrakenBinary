@@ -1,6 +1,6 @@
 <div class="row">
     <div class="column">
-        <img src="https://github.com/krakenbinary.png"  height="300" width="300">
+        <img src="https://github.com/krakenbinary.png"  height="200" width="200">
     </div>
     <div class="column">
 
