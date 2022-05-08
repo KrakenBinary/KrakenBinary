@@ -8,7 +8,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krakenbinary.krakenbinary)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=krakenbinary&show_icons=true)
 
 ```py
 #!/usr/bin/python3
