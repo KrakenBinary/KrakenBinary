@@ -1,4 +1,4 @@
-<p float="center">
+<p style="text-align:center;">
 <img src="https://github.com/krakenbinary.png"  height="200" width="200">
 </p>
 
