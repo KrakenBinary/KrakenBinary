@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Hack](https://img.shields.io/badge/Hacking%20CTF-PWN-008080?style=for-the-badge&labelColor=000000&logo=hackaday)
 
 ```py
 #!/usr/bin/python3
