@@ -2,11 +2,15 @@
 <img src="https://github.com/krakenbinary.png"  height="200" width="200">
 </p>
 
-![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=krakenbinary&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=008080&style=for-the-badge)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Hack](https://img.shields.io/badge/Hacking%20CTF-PWN-008080?style=for-the-badge&labelColor=000000&logo=hackaday)
+<div align="center">
+
+  <a href="">![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=krakenbinary&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=008080&style=for-the-badge)</a>
+  <a href="">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
+  <a href="">![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
+  <a href="">![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</a>
+  <a href="">![Hack](https://img.shields.io/badge/Hacking%20CTF-PWN-008080?style=for-the-badge&labelColor=000000&logo=hackaday)</a>
+
+</div>
 
 ```py
 #!/usr/bin/python3
